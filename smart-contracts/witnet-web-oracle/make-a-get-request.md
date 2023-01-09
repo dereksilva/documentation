@@ -97,7 +97,7 @@ const kraken = new Witnet.Source("https://api.kraken.com/0/public/Ticker?pair=ET
 ```
 
 {% hint style="info" %}
-The [witnet-price-feeds repository on GitHub](https://github.com/witnet/witnet-price-feeds/tree/master/requests) contains dozens of pre-built oracle queries that can give you a clear idea on how to deal with the APIs of many different exchanges.
+The [witnet-price-feeds repository on GitHub](https://github.com/witnet/witnet-price-feeds/tree/master/) contains dozens of pre-built oracle queries that can give you a clear idea on how to deal with the APIs of many different exchanges.
 {% endhint %}
 
 #### 6. Specify how to aggregate the different data sources
